@@ -1,0 +1,25 @@
+{
+    "name": "dajimu/dajimu",
+    "description": "The dajimu Framework.",
+    "keywords": [
+        "dajimu",
+        "cms",
+        "blog",
+        "shop",
+        "foundation",
+        "framework"
+    ],
+    "authors": [
+        {
+            "name": "daqi",
+            "email": "768287201@qq.com"
+        }
+    ],
+    "homepage": "https://dajimu.xyz",
+    "license": "Apache-2.0",
+    "type": "project",
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.0"
+    }
+}
